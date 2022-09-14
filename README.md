@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarkSmetanin
+- 👋 Hi, I’m @Mark Smetanin
 - 👀 I’m interested in Product Management
 - 🌱 I’m currently learning UX design, Communication models, 
 - 💞️ I’m looking to collaborate on Ecommerce projects
